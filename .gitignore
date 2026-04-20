@@ -1,0 +1,11 @@
+# Ignore sensitive files
+pass.txt
+web-app/.env.local
+
+# Ignore Python stuff
+venv/
+__pycache__/
+
+# Ignore Next.js build stuff
+web-app/node_modules/
+web-app/.next/
